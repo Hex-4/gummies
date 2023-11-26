@@ -34,4 +34,6 @@ echo "📦 Installing Gum..."
 sudo apt update
 sudo apt install gum
 echo "✅ Done!"
+mkdir ~/.config/gummy
+sudo mkdir /usr/local/bin/gummy
 
