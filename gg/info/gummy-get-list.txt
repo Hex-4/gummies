@@ -1,0 +1,5 @@
+commit
+alias
+read
+g-config
+
